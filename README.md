@@ -21,9 +21,6 @@ As tecnologias representam estudos e projetos presentes neste perfil.
 - **[The Missing Semester](https://github.com/joaoteixeirapedro/mit-missing-semester):** notas e exercícios de shell, ferramentas de desenvolvimento e depuração.
 - **[Engenharia de Prompt e Aplicações em IA](https://github.com/joaoteixeirapedro/engenharia_de_prompt_aplicacoes_Ai):** atividades e estudos acadêmicos sobre aplicações de IA.
 
-## 📚 Pesquisa de mercado
-
-Analisei e segui dez perfis de referência em backend, frontend e dados/IA. A comparação e a reflexão estão no [relatório de benchmarking](BENCHMARKING.md).
 
 ## 📫 Contato
 
